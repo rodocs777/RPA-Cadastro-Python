@@ -30,6 +30,7 @@ Conteúdo do projeto:
 5 - auxiliar_scroll.py --> comando para quem quiser criar seu código a partir do meu, personalizado para o seu computador. E subir ou descer o scroll da tela.
 
 6 - vídeoapresentação.mp4 - apresentação exclusivamente do projeto
+ou via Youtube (https://www.youtube.com/watch?v=4PA9ha6WC4k&ab_channel=RodolfoFM)
 
 ---
 
