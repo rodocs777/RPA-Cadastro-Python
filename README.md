@@ -1,8 +1,6 @@
 RPA - Robotic Process Automation
 
 
-Introdução:
-
 Criei uma Automação não assistida em RPA.
 
 Automatização total de processos repetitivos que faríamos manualmente.
