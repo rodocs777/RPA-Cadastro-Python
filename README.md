@@ -1,12 +1,14 @@
 RPA - Robotic Process Automation
 
+
 Introdução:
 
-Programa para automatização de processos repetitivos que faríamos manualmente.
+Criei uma Automação não assistida em RPA.
 
-Sendo o computador clicando e digitando por nós, por meio de um Script programado previamente para isso.
+Automatização total de processos repetitivos que faríamos manualmente.
 
-O código foi criado com Python, no Windows.
+Sendo o computador clicando e digitando por nós, por meio de um script programado previamente para isso.
+
 
 ---
 
