@@ -100,9 +100,9 @@ Basta copiar o resultado (x=1313, y=418) e colar no seu código.
 
 ---
 
-Para mais informações, podem seguir meu instagram:
+Por fim, se pecisarem entrem em contato.
 
-@rolftech
 
-Agradeço a colaboração!
+At,
 
+Rodolfo
